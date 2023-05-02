@@ -19,6 +19,9 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
+a:visited {
+  color: inherit;
+}
 
 li {
   list-style: none;

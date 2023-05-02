@@ -84,4 +84,16 @@
   transform: scale(0.98);
 }
 
+.footer {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 4rem;
+}
+.footer .footer-link {
+  color: #b5513d;
+}
+.footer .footer-link:hover {
+  opacity: 0.8;
+}
+
 /*# sourceMappingURL=style.css.map */
